@@ -7,7 +7,7 @@ In this project I looked at one year of Capital Bikeshare data in Washington DC.
 - Daily weather for DC from Open-Meteo (free weather API)
 
 ## Why I built this
-_(write 2-3 sentences here in your own words)_
+I study Computer Engineering and Math at the University of Maryland, and I see Capital Bikeshare bikes all over DC and College Park. I wanted to work with a real, messy dataset instead of a clean classroom one, and I was curious how much things like weather and weekends actually change how people ride. This was also a way for me to practice the full process: getting the data, cleaning it, finding patterns, and building a simple forecast.
 
 ## What I found
 
